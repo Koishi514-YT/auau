@@ -3,4 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Download</title>
+  <link rel="stylesheet" href="SUB/style.css">
   <p><a href="dll/Vous11.dll" download="Vous11.dll">Vous Client</a></p>
+</head>
